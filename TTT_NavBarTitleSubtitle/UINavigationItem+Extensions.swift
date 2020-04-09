@@ -25,7 +25,6 @@ extension UINavigationItem {
         stackView.distribution = .equalCentering
         stackView.alignment = .center
         stackView.axis = .vertical
-        stackView.backgroundColor = UIColor.green
         
         self.titleView = stackView
     }
